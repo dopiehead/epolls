@@ -6,7 +6,7 @@
 <script src="assets/js/jquery-3.2.1.min.js"></script>
 <script src="assets/js/sweetalert.min.js"></script>
 <script src="assets/js/flickity.pkgd.min.js"></script>
-<link rel="stylesheet" href="assets/css/flickity.min.css"><link rel="stylesheet" href="css/mediaQuery.css">
+
 <link rel="stylesheet" href="assets/css/layout.css">
 
 <link rel="stylesheet" href="assets/css/footer.css">

@@ -43,11 +43,79 @@
 
          <div class="tools-home">
 
-            <div><h6>Tools</h6></div>
+            <div>
+                
+            <h6>Tools</h6>
 
-             <div><h6>Role</h6></div>
+            <strong>Form Builder</strong>
 
-             <div><h6>Case</h6></div>
+            <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        
+             <br>
+
+             <strong>Comparison</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+             <br>
+
+             <strong>Form builder</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+
+            </div>
+
+
+
+
+             <div>
+                
+             <h6>Role</h6>
+
+             <strong>Find customer</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+             <br>
+
+             <strong>Get feedback</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+             <br>
+
+             <strong>Do research</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+
+            </div>
+
+
+             <div>
+                
+             <h6>Case</h6>
+
+             <strong>HR</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+             <br>
+
+             <strong>Business</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+             <br>
+
+             
+             <strong>Marketer</strong>
+
+             <p class="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+             
+            
+            </div>
 
 
          </div>
@@ -65,21 +133,22 @@
 
 
             <div class="col-md-6 px-3">
+                <br>
     
                 <div class="link-home">
 
                      
                          <div>
 
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+                                <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                                <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
 
                          </div>
 
                          <div>
 
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+                               <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
 
 
                          </div>
@@ -88,25 +157,8 @@
 
                          <div>
 
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-
-
-                         </div>
-
-
-                         <div>
-
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-
-
-                         </div>
-
-                         <div>
-
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+                                  <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                               <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
 
 
                          </div>
@@ -114,35 +166,96 @@
 
                          <div>
 
-                         <h6><i class="fa fa-circle"></i>Product Overview</h6>
-                         <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+                                 <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                                <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                         </div>
+
+                         <div>
+
+                                 <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                                <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                         </div>
+
+
+                         <div>
+
+                               <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                                 <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                          </div>
+
+
+                          <div>
+
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                          </div>
+
+                          
+                          <div>
+
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                          </div>
+
+
+                          
+                          <div>
+
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
 
 
                           </div>
 
 
 
+                          
+                          <div>
 
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                          </div>
+
+
+                          
+                          <div>
+
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                          </div>
+
+                          <div>
+
+                              <h6><i class="fa fa-circle"></i>Product Overview</h6>
+                              <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+
+
+                         </div>
 
 
 
                  </div>
 
 
-
-
-
              </div>
 
      </div>
 
-
-
-
-
-
-
-
+     <br><br>
 
 
 
