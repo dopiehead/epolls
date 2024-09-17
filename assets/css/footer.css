@@ -1,0 +1,40 @@
+.footer {
+    background-color: #205961; /* Dark background color */
+    padding: 40px 0; /* Padding for the footer */
+}
+.footer a {
+    text-decoration: none;
+}
+.footer .text-white {
+    color: #ffffff;
+}
+.footer .btn-warning {
+    background-color: #ffc107;
+    border: none;
+}
+.footer .btn-warning:hover {
+    background-color: #e0a800;
+}
+.footer .fa-brands {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: #ffffff;
+}
+
+.footer h6{
+    font-weight: bold;
+    font-style: 25px;
+    margin:20px 0px;
+}
+
+.footer-circle{margin-top:-100px;
+    float:right;
+}
+
+.footer-circle .outer-circle{
+border:2px solid white !important;
+    }
+
+    .footer-circle .inner-circle{
+        border:2px solid white !important;
+            }

@@ -1,0 +1,169 @@
+.main div {
+width:250px;
+background-color: rgb(227, 234, 241);
+padding:10px;
+border-radius:10px;
+}
+
+.main{
+flex-wrap: wrap;
+}
+
+@media screen and (max-width: 768px){
+ 
+    .main{
+        flex-wrap: wrap;
+        flex-direction: column;
+        }    
+
+}
+
+
+
+.e_company div{
+width:150px;height:100px;
+}
+
+.e_company div img{
+ width: 100%;
+ height: 80%;
+ object-fit:cover;
+    }
+
+ .main div{
+list-style-type: none;
+width:300px;
+
+margin:20px;
+ }
+
+ .main div h6{
+    font-weight:bold;
+    margin:8px 0px;
+    font-size:19px;
+ }
+
+.achieve{
+    font-weight: bold;
+ }
+
+ .title{font-weight: bold;}
+
+ .title span{
+font-style: italic;
+font-size: 28px !important;
+ }
+
+ .e_company{
+    gap:15px;
+ }
+
+@media  screen and (max-width: 768px){
+    .e_company{
+        gap:10px;
+        flex-wrap:wrap;
+        }
+}
+
+
+
+
+
+.e_company div{
+    background-color: rgb(42, 42, 42);
+    padding:10px;
+}
+
+.e_company p{
+color:white;
+text-align:center;
+}
+
+.tools-topic{
+    font-weight: bold;
+    font-style: 24px;
+}
+
+.customer_support{
+    font-weight: bold;
+}
+
+.img_customer{
+    max-width: 100% !important;
+    height:auto;
+}
+
+.section_hr1 img{
+ max-width:100%;
+ height:auto;
+}
+
+.section_hr1 div h6{
+   font-weight:bold;
+}
+
+.section_hr1 div {
+width:60%;
+ }
+
+
+ @media screen and (max-width:768px) {
+    .section_hr1 div{
+        width:100% !important;
+          }  
+}
+
+
+
+
+
+
+ .section_hr1 {
+   margin:55px 40px;
+   display: flex;
+   justify-content:space-between;
+     }
+
+@media screen and (max-width:768px) {
+    .section_hr1 {
+       flex-wrap: wrap;
+          }  
+}
+
+     .section_hr2 {
+     background-color: rgb(29, 201, 232);
+    width:100%;
+ margin-top:-150px;
+    padding:10px;
+
+     }
+
+     .img-container img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+    .img-container {
+        padding: 20px; /* Optional: Add some padding around the container */
+    }
+
+    .justify-content-end{
+        gap:85px;
+        position: relative;
+    }
+
+     .img_fluid{
+  top:-40px;
+  right:30%;
+  position: absolute;
+    }
+
+
+    
+@media screen and (max-width:768px) {
+    .img_fluid{
+        top:-80px;
+        right:30%;
+        position: absolute;
+          } 
+}
