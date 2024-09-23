@@ -5,10 +5,186 @@
     width:50%;
 }
 
-.package-home{
-    gap:20px;
+
+@media screen and (max-width: 768px) {
+    .package-container{
+        width:100%;
+    }
+
 }
 
+
+.package-home{
+    display:flex;
+    justify-content:center;
+     align-items:center;
+     gap:20px;
+}
+
+@media screen and (max-width: 768px) {
+    .package-home{
+        display:flex;
+        justify-content:center;
+         align-items:center;
+         flex-direction:column;
+    }
+    
+}
+
+
+
 .mt-8{
-    margin-top:140px;
+    margin-top:150px;
+}
+
+@media screen and (max-width: 768px) {
+    .mt-8{
+        margin-top:100px;
+    }
+
+
+}
+
+
+.bg-skyblue{
+background-color: skyblue;
+    padding:10px;
+    width:100%;
+}
+
+.text-sm{
+    font-size:13px;
+}
+
+
+
+.advert-box{
+    display:flex;
+    justify-content:space-between;
+    gap:10px;
+    background-color: #f0f0f0;
+    padding:20px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .advert-box{
+      
+        justify-content:center;
+        flex-direction: column;
+      
+    }
+
+}
+
+
+
+.advert-box  .advert-container{
+    width:50%;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .advert-box  .advert-container{
+        width:100%;
+    }
+
+}
+
+
+
+.advert-container .bg-secondary{
+    background-color: #e1e1e1;
+    height:150px;
+    width:100%;
+}
+
+.advert-container .d-flex{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+@media screen and (max-width: 768px){
+    .advert-container .d-flex{
+      
+        justify-content:center;
+        flex-direction: column;
+    }
+    
+
+}
+
+
+
+
+.gain_row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media screen and (max-width: 768px){
+ 
+    .gain_row{
+       
+        justify-content: center;
+        gap:10px;
+        flex-wrap: wrap;
+    }
+    
+}
+
+
+.bg-secondary{
+ height:80px;
+ width:100px;   
+}
+
+.col-md-6{
+    width:50%;
+}
+
+@media screen and (max-width:768px) {
+    .col-md-6{
+        width:100%;
+    }  
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.space{
+    height:100%;
+    width:100%;
+    background-color: #dedede;
+}
+
+
+
+@media screen and (max-width:768px) {
+  
+.space{
+    height:250px;
+    width:100%;
+    background-color: #dedede;
+}  
+}
+
+
+.xtra-space{
+display: flex;
+justify-content: space-between;
+
+}
+
+@media screen and (max-width: 768px){
+    .xtra-space{
+       
+        justify-content:center;
+        flex-direction:column;
+        
+        }  
 }
