@@ -18,6 +18,7 @@ display:flex;
 
 .logo-container{
     margin-top:-15px;
+    margin-left: 20px;
 }
 
 
@@ -178,7 +179,7 @@ display:flex;
         .overlay-content{
         position:relative;
         top:10%;
-        width: 100%;
+        
         text-align: center;
         
         }
@@ -193,7 +194,7 @@ display:flex;
         font-weight:bold;
         font-family:poppins;
         text-transform:bold;
-      
+       cursor:pointer;
         text-decoration:none;
         }
     

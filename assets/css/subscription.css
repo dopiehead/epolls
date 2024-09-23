@@ -95,7 +95,83 @@ font-size: 14px;
 .coming-soon{
     font-size:11px;
     color:darkgreen;
-    background-color: rgb(21, 202, 21) !important;
+    background-color: rgb(145, 233, 145) !important;
     padding:0px 7px;
     font-weight: normal;
+}
+
+
+.subscribe-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:40px;
+    background-color: rgb(93, 117, 132);
+}
+
+
+
+@media screen and (max-width: 768px){
+
+    .subscribe-container{
+    
+       flex-wrap: wrap;
+    }
+}
+
+
+.subscribe-content{
+     padding:10px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+a{
+    cursor: pointer;
+}
+
+.bg-white{
+padding:20px 35px;
+}
+
+@media screen and (max-width:768px) {
+    .bg-white{
+        padding:20px 20px;
+        }   
+}
+
+.payment_image{
+    display:flex;
+     justify-content:center;
+     gap:10px;
+}
+
+.payment_image img{
+ max-width:100%;
+ height:auto;
+ object-fit: contain;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.notice{
+    border:2px solid darkblue;
+  
+}
+
+.notice-content{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    gap:10px;
+}
+
+@media screen  and (max-width: 768px){
+
+    .notice-content{  flex-wrap: wrap;; 
+}
 }

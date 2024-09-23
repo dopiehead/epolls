@@ -142,6 +142,99 @@
      </div>
 
 
+     </div>
+              <h3 class="text-center text-bold mb-3 mt-4">Try our 100% free Plan</h3>
+
+              <div class="container notice  rounded text-center p-4 ">
+                 
+                 <div class=" notice-content d-flex justify-content-center">
+                    
+                   <div>
+                      <p class="text-sm">Get started with our free plan and make 10 lookups per month absolutely free!</p>
+                   </div>
+
+                   <div>
+
+                   <a href="" class="btn btn-warning text-dark text-center text-sm"><b>Sign up for free</b></a>
+
+                   </div>
+
+                 </div>
+
+              </div>
+
+    <h4 class="text-center mt-5 mb-3">Payment Methods</h4>
+
+       <div class="container payment_image">
+
+            <img src="assets/img/payment/bank.png" alt="">
+
+         <img src="assets/img/payment/btc.png" alt="">
+    
+       </div>
+
+       <h6 class="text-center mt-2">We accept Visa, American Express, Mastercard, Paypal and Crypto</h6>
+
+
+     <div class="container subscribe-container rounded">
+
+<div class="p-3">
+     <div class="bg-white rounded">
+     <strong class="text-sm">Pro business</strong>
+     <h5>N23,560</h5>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="submit" class="btn btn-dark form-control mt-2 rounded rounded-pill" value="Subscribe">
+     </div>
+</div>
+<div class="p-3">
+     <div class="bg-white rounded">
+     <strong class="text-sm">Pro business</strong>
+     <h5>N23,560</h5>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="submit" class="btn btn-dark form-control mt-2 rounded rounded-pill" value="Subscribe">
+     </div>
+</div>
+
+<div class="p-3">
+     <div class="bg-white rounded">
+     <strong class="text-sm">Pro business</strong>
+     <h5>N23,560</h5>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="submit" class="btn btn-dark form-control mt-2 rounded rounded-pill" value="Subscribe">
+     </div>
+</div>
+
+<div class="p-3">
+     <div class="bg-white rounded">
+     <strong class="text-sm">Pro business</strong>
+     <h5>N23,560</h5>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="checkbox"><span class="text-sm ml-1">Save as Draft</span><br>
+     <input type="submit" class="btn btn-dark form-control mt-2 rounded rounded-pill" value="Subscribe">
+     </div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+    <br><br>
+
+    <div class="container" >
+    <a class=" text-sm bg-dark p-2 text-white mt-5 rounded" >add another option <span class="border border-white rounded-circle rounded-pill text-white p-1 px-2"><i class="fa fa-plus"></i></span></a>
+</div>
+
 
 
 

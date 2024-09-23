@@ -1,0 +1,134 @@
+
+
+.heading-container{
+display:flex;
+justify-content: space-between;
+align-items: center;
+margin-top:80px;
+}
+
+@media screen and (max-width: 768px){
+    .heading-container{
+
+        margin-top:50px;
+        }  
+}
+
+.heading-container select{
+    background-color: yellow;
+    border:1px solid transparent;
+}
+
+textarea{
+border:1px solid transparent;
+box-shadow: 0px 0px 5px rgb(196, 196, 196);
+}
+
+.text-sm{
+    font-size:14px;
+}
+
+.text-area{
+display:flex;
+justify-content: space-between;
+width:100%;
+background-color: white;
+border:1px solid transparent;
+box-shadow: 0px 0px 5px rgb(196, 196, 196); 
+padding:20px 10px;
+}
+
+
+.text-area div{
+
+    display:flex;
+    justify-content:space-evenly;
+    gap:3px;
+
+
+}
+
+input[type="file"]{
+  display:none;  
+}
+
+.file-container{
+    background-color: #0a5283;
+    color:white;
+    padding:3px 5px;
+}
+
+.select-container{
+    display:flex; 
+    justify-content:space-between;
+    align-items:center;
+   
+    width:100%;
+    background-color: white;
+    border:1px solid transparent;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.4);
+}
+
+
+.select-container .btn-select{
+    background-color: red;
+    color:white;
+    border:none;
+    padding:5px 5px;
+}
+
+.select-options{
+    display:flex;
+    justify-content: space-evenly;
+    gap:25px;
+}
+
+
+@media screen and (max-width:768px){
+ .select-options{
+        flex-wrap: wrap;   
+}
+}
+.select-options div{
+    background-color: white;
+    padding:5px 8px;
+}
+
+.select-options div span{
+ margin-left:8px;
+}
+
+.poll_option{
+font-weight: normal;
+}
+
+.subscribe-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:40px;
+    background-color: rgb(93, 117, 132);
+}
+
+
+
+@media screen and (max-width: 768px){
+
+    .subscribe-container{
+    
+       flex-wrap: wrap;
+    }
+}
+
+
+.subscribe-content{
+     padding:10px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+a{
+    cursor: pointer;
+}

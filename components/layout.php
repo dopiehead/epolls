@@ -60,9 +60,9 @@ LOGO
 
      <div class="overlay-content">
     
-     <a>Products <i class="fa fa-caret-right"></i></a>
-   <a>Solutions <i class="fa fa-caret-right"></i></a>
-   <a>Resources & Support <i class="fa fa-caret-right"></i></a>
+     <a>Products <i class="fa fa-caret-down"></i></a>
+   <a>Solutions <i class="fa fa-caret-down"></i></a>
+   <a>Resources & Support <i class="fa fa-caret-down"></i></a>
    <a>Pricing</a>
 
              <?php if(isset($_SESSION['id']) && !empty($_SESSION['id'])){ ?>
